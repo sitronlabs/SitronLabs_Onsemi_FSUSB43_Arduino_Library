@@ -1,0 +1,3 @@
+fsusb43	KEYWORD1
+setup	KEYWORD2
+output_select	KEYWORD2

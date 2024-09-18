@@ -1,0 +1,16 @@
+{
+    "name": "Sitron_Labs_FSUSB43_Arduino_Library",
+    "version": "0.1.0",
+    "description": "Arduino library for the onsemi FSUSB43 USB switch IC.",
+    "keywords": "sitron labs,sitron,labs,arduino,library,analog,usb,switch,on semiconductor,onsemi,fsusb43",
+    "repository": {
+        "type": "git",
+        "url": "https:\/\/github.com\/sitronlabs\/SitronLabs_Onsemi_FSUSB43_Arduino_Library.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*",
+    "dependencies": [],
+    "build": {
+        "includeDir": "src"
+    }
+}
