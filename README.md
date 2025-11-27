@@ -3,8 +3,8 @@
 [![PayPal Donate](https://img.shields.io/badge/PayPal-Donate-00457C.svg?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=QLX8VU9Q3PFFL)
 ![License](https://img.shields.io/github/license/sitronlabs/SitronLabs_Onsemi_FSUSB43_Arduino_Library.svg)
 ![Latest Release](https://img.shields.io/github/release/sitronlabs/SitronLabs_Onsemi_FSUSB43_Arduino_Library.svg)
-[![Arduino Library Manager](https://www.ardu-badge.com/badge/Sitron%20Labs%20Onsemi%20FSUSB43%20Arduino%20Library.svg)](https://www.ardu-badge.com/Sitron%20Labs%20Onsemi%20FSUSB43%20Arduino%20Library)
-[![PlatformIO Registry](https://badges.registry.platformio.org/packages/sitronlabs/library/Sitron_Labs_Onsemi_FSUSB43_Arduino_Library.svg)](https://registry.platformio.org/libraries/sitronlabs/Sitron_Labs_Onsemi_FSUSB43_Arduino_Library)
+[![Arduino Library Manager](https://www.ardu-badge.com/badge/Sitron%20Labs%20FSUSB43%20Arduino%20Library.svg)](https://www.ardu-badge.com/Sitron%20Labs%20FSUSB43%20Arduino%20Library)
+[![PlatformIO Registry](https://badges.registry.platformio.org/packages/sitronlabs/library/Sitron_Labs_FSUSB43_Arduino_Library.svg)](https://registry.platformio.org/libraries/sitronlabs/Sitron_Labs_FSUSB43_Arduino_Library)
 
 # Sitron Labs Onsemi FSUSB43 Arduino Library
 
